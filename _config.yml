@@ -27,6 +27,15 @@ url: "https://tri2k.github.io" # the base hostname & protocol for your site, e.g
 twitter_username: jekyllrb
 github_username:  tri2k
 
+# Fields minima uses, but are not defaulted with the jekyll new command.
+# Author is the default for posts, the Atom feed, and is used in the footer.
+author: Jonathan Sy
+
+# New fields not defaulted by jekyll-new with the minima theme.
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: Company Name, Inc.
+copyright: "Jonathan Sy"
+
 # Build settings
 # Removed minima theme as it is now a regular theme.
 # theme: minima
